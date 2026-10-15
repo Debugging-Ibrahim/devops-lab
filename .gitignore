@@ -1,2 +1,4 @@
 out/
+
+# Build logs
 *.log
