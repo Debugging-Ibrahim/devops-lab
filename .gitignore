@@ -2,3 +2,4 @@ out/
 
 # Build logs
 *.log
+*.swp
